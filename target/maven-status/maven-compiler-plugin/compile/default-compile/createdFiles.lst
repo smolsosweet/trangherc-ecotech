@@ -1,0 +1,9 @@
+com\trangherb\ecotech\ChatController$ChatRequest.class
+com\trangherb\ecotech\DocxContextProvider.class
+com\trangherb\ecotech\HomeController.class
+com\trangherb\ecotech\TrangherbEcotechApplication.class
+com\trangherb\ecotech\DocxContextProvider$PackageHeading.class
+com\trangherb\ecotech\DocxContextProvider$ScoredParagraph.class
+com\trangherb\ecotech\ChatController.class
+com\trangherb\ecotech\DocxContextProvider$PackageInfo.class
+com\trangherb\ecotech\ChatController$EnvConfig.class
